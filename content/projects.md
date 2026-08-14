@@ -5,7 +5,7 @@
 * **When a Zero-Shooter Cheats: Improving Age Estimation via Activation Steering** - E. Imgrund, P. Hanfeld, K. Kireev, K. Rieck. *arXiv preprint: [arXiv:2605.17658](https://arxiv.org/abs/2605.17658).*
 
 ### 2025
-* **Accelerating db-A* for kinodynamic motion planning using diffusion** - J. Franke, A. Moldagalieva, P. Hanfeld, W. Hönig. *arXiv preprint: [arXiv:2503.05539](https://arxiv.org/abs/2503.05539).*
+* **Accelerating db-A\* for kinodynamic motion planning using diffusion** - J. Franke, A. Moldagalieva, P. Hanfeld, W. Hönig. *arXiv preprint: [arXiv:2503.05539](https://arxiv.org/abs/2503.05539).*
 
 ### 2024
 * **Ensuring Topological Data-Structure Preservation under Autoencoder Compression Due to Latent Space Regularization in Gauss–Legendre Nodes** - C.K. Ramanaik, A. Willmann, J.E. Suarez Cardona, P. Hanfeld, N. Hoffmann, et al. *Axioms 13 (8), 535.*
