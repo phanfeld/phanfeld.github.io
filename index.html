@@ -6,6 +6,7 @@
     <title>Pia Hanfeld | AI Security Researcher</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
+        /* (Keep your existing CSS styles exactly as they were here) */
         :root {
             --bg-color: #111111;
             --text-color: #e0e0e0;
@@ -27,7 +28,6 @@
 
         .container { max-width: var(--max-width); margin: 0 auto; }
 
-        /* Navigation */
         nav {
             display: flex;
             justify-content: space-between;
@@ -46,10 +46,8 @@
         }
         .nav-links a:hover { color: var(--accent-color); }
 
-        /* Markdown Content Styling */
         section { margin-bottom: 5rem; animation: fadeIn 0.5s ease-in; }
         
-        /* Typography mapped from Markdown */
         h1 { font-size: 3rem; line-height: 1.1; margin-bottom: 1.5rem; font-weight: 800; color: #ffffff; }
         h2 { 
             font-size: 1.5rem; margin-top: 3rem; margin-bottom: 1.5rem; 
@@ -65,7 +63,6 @@
         strong { color: #ffffff; }
         em { color: var(--secondary-text); font-style: normal; font-size: 0.9em; }
 
-        /* Specific class for Buttons */
         .btn-container { margin-top: 2.5rem; display: flex; gap: 1rem; }
         .btn {
             display: inline-block; text-decoration: none;
@@ -107,16 +104,18 @@
             <div class="logo">Pia Hanfeld</div>
             <div class="nav-links">
                 <a href="#about">About</a>
-                <a href="#projects">Research</a>
+                <a href="#research">Research</a>
+                <a href="#projects">Projects</a>
                 <a href="#cv">CV</a>
             </div>
         </nav>
 
         <section id="about"></section>
+        <section id="research"></section>
         <section id="projects"></section>
         <section id="cv"></section>
 
-        <footer>&copy; 2026 Pia Hanfeld.</footer>
+        <footer>&copy; 2026 Pia Hanfeld. AI Security Research.</footer>
     </div>
 
     <script>
@@ -133,6 +132,7 @@
         }
 
         loadContent('content/about.md', 'about');
+        loadContent('content/research.md', 'research');
         loadContent('content/projects.md', 'projects');
         loadContent('content/cv.md', 'cv');
     </script>
