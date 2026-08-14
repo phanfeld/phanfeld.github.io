@@ -20,7 +20,7 @@
 ---
 
 ## Mentored Students
-* **Levin Ahrends** *(12/2025 – 06/2026)* - MS Thesis (Management Information Systems): *Analysis and comparison of black-box Adversarial Attack strategies on quantized Neural Networks*
+* **Levin Ahrens** *(12/2025 – 06/2026)* - MS Thesis (Management Information Systems): *Analysis and comparison of black-box Adversarial Attack strategies on quantized Neural Networks*
 * **Julius Franke** *(05/2024 – 11/2024)* - MS Thesis (Computational Engineering Science): *Motion Primitive Selection for Kinodynamic Motion Planning*
 * **Eckart Ferdinand Cobo Briesewitz** *(05/2024 – 10/2024)* - BS Thesis (Computer Science): *Learning-based Multirotor Control Enhancements*
 * **Natalie Huang** *(06/2024 – 08/2024)* - *Visiting Research Student (MIT)*
