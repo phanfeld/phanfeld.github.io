@@ -1,6 +1,7 @@
 ## Publications
 
 ### 2026
+* **Controlling Autonomous Vehicles using Continuous Adversarial Patches** - P. Hanfeld, E. Imgrund, F. Weißberg, T. Eisenhofer, W. Hönig, K. Rieck. *19th Workshop on Artificial Intelligence and Security (AISec ’26), November 15–19, 2026, The Hague, Netherlands. ACM, New York, NY, USA, 12 pages. ([DOI: 10.1145/3847352.3848104](https://doi.org/10.1145/3847352.3848104))*
 * **On the Same Track: Privacy Leaks in Electric Rail Transport via Magnetic Fields** - S. Czybik, P. Hanfeld, K. Rieck. *Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security (CCS ’26), The Hague, Netherlands.*
 * **When a Zero-Shooter Cheats: Improving Age Estimation via Activation Steering** - E. Imgrund, P. Hanfeld, K. Kireev, K. Rieck. *arXiv preprint: [arXiv:2605.17658](https://arxiv.org/abs/2605.17658).*
 
